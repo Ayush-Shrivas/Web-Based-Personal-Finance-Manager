@@ -84,17 +84,17 @@ http://127.0.0.1:5000
 
 ## 🔐 Security Considerations
 
--Passwords are hashed before storage
--Secure session-based authentication
--Controlled database interactions
+- Passwords are hashed before storage
+- Secure session-based authentication
+- Controlled database interactions
 
 ## 📈 Future Enhancements
 
--Monthly and yearly financial analytics with charts
--Budget alerts and notifications
--Export reports to CSV or PDF
--Dark/Light mode toggle
--Cloud deployment (Render, Railway, etc.)
+- Monthly and yearly financial analytics with charts
+- Budget alerts and notifications
+- Export reports to CSV or PDF
+- Dark/Light mode toggle
+- Cloud deployment (Render, Railway, etc.)
 
 ## 👤 Author
 
